@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\hexToChinese.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HexTochaina.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\hexToChinese.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\hexToChinese.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\hexToChinese.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\hexToChinese.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\hexToChinese.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\hexToChinese.pdb
+C:\Users\Administrator\Documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\hexToChinese.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\bin\Debug\hexToChinese.exe.config
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\hexToChinese.exe
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\hexToChinese.pdb
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\bin\Debug\hexToChinese.exe
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\bin\Debug\hexToChinese.pdb
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\hexToChinese.Form1.resources
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\HexTochaina.Properties.Resources.resources
+C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\hexToChinese.csproj.GenerateResource.Cache

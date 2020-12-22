@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HEXTOCHAINA.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HEXTOCHAINA.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HEXTOCHAINA.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HexTochaina.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\hexto16.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HEXTOCHAINA.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\HEXTOCHAINA.pdb
