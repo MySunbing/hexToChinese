@@ -15,3 +15,12 @@ C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToC
 C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\hexToChinese.Form1.resources
 C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\HexTochaina.Properties.Resources.resources
 C:\Users\Administrator\Documents\visual studio 2015\Projects\hexToChinese\hexToChinese\obj\Debug\hexToChinese.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\bin\Debug\hexToChinese.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\obj\Debug\hexToChinese.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\obj\Debug\hexToChinese.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\bin\Debug\hexToChinese.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\bin\Debug\hexToChinese.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\obj\Debug\hexToChinese.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\obj\Debug\hexToChinese.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\obj\Debug\HexTochaina.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\hexToutf-8\hexToChinese\obj\Debug\hexToChinese.csproj.GenerateResource.Cache
